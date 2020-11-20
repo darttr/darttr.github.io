@@ -9,7 +9,7 @@ void main() {
 ```
 
 ```sh
-dart run merhaba_dunya.dart
+dart merhaba_dunya.dart
 ```
 
 
