@@ -3,7 +3,6 @@ Konu Başlıkları
 1. [Merhaba Dünya](#merhaba-dünya)
 2. [pubspec.yaml](#pubspecyaml)
 3. [Kurulum](#kurulum)
-- [Ek Modüller](#ek-modüller)
 4. [Geliştirme'ye Başlangıç](#geliştirmeye-başlangıç)
 
 ----
@@ -65,9 +64,26 @@ flutter:
 ```
 ----
 # Kurulum
+> Dart SDK (Software Development Kit) Kurulumunu Gerçekleştirmek için aşağıdaki yönergeleri izleyebilirsiniz.
 
-----
-# Ek Modüller
+[Güncel Kurulum Yönergeleri](https://dart.dev/get-dart)
+
+Linux Ubuntu-Debian
+```sh
+ sudo apt-get update
+ sudo apt-get install apt-transport-https
+ sudo sh -c 'wget -qO- https://dl-ssl.google.com/linux/linux_signing_key.pub | apt-key add -'
+ sudo sh -c 'wget -qO- https://storage.googleapis.com/download.dartlang.org/linux/debian/dart_stable.list > /etc/apt/sources.list.d/dart_stable.list'
+
+```
+Ardından Dart SDK Kurulumu Yapılır.
+```sh
+ sudo apt-get update
+ sudo apt-get install dart
+ # Son olarak path değişkeninize flutter yolunu ekleyin
+ echo 'export PATH="$PATH:/usr/lib/dart/bin"' >> ~/.profile
+```
+
 
 ----
 # Geliştirmeye Başlangıç
