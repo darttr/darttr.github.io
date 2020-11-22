@@ -7,4 +7,4 @@ Türkçe Dart Dili Sayfası
 > Bu sayfada Türkçe Dart Dili Dersleri planlanmaktadır.
 
 # İçerikler
-- [Başlangıç](baslangic.html)
+- [Başlangıç](baslangic)
