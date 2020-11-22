@@ -25,7 +25,7 @@ dart merhaba_dunya.dart
 > Dart programlama dili bağımlılıklarını belirtmek için pubspec.yaml dosyasını kullanır.
 > Uzantısından anlaşılacağı üzere kendisi yaml formatında bir dosyadır.
 > Aşağıdaki örnek Flutter için bir yaml dosyasıdır
-```yaml
+```
 name: flutterui
 description: A new Flutter project.
 
