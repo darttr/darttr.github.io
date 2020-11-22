@@ -8,7 +8,7 @@ Türkçe Dart Dili Sayfası
 
 # İçerikler
 - Başlangıç
-0. Merhaba Dünya ve Kurulum
+0. [Merhaba Dünya ve Kurulum](/baslangic)
 1. Söz Dizimi (Syntax)
 2. Veri Tipleri (Data Types)
 3. Değişkenler (Variables)
