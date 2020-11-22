@@ -22,7 +22,43 @@ dart merhaba_dunya.dart
 
 ----
 # pubspec.yaml
+> Dart programlama dili bağımlılıklarını belirtmek için pubspec.yaml dosyasını kullanır.
+> Uzantısından anlaşılacağı üzere kendisi yaml formatında bir dosyadır.
+> Aşağıdaki örnek Flutter için bir yaml dosyasıdır
+```yaml
+name: flutterui
+description: A new Flutter project.
 
+version: 1.0.0+1
+
+environment:
+  sdk: ">=2.7.0 <3.0.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+  cached_network_image: ^2.0.0
+  fluttertoast: ^3.1.3
+
+  cupertino_icons: ^0.1.2
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+
+
+# The following section is specific to Flutter.
+flutter:
+
+  # The following line ensures that the Material Icons font is
+  # included with your application, so that you can use the icons in
+  # the material Icons class.
+  uses-material-design: true
+
+  assets:
+   - images/a_dot_burr.jpeg
+   - images/a_dot_ham.jpeg
+```
 ----
 # Kurulum
 
