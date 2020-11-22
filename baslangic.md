@@ -27,7 +27,7 @@ dart merhaba_dunya.dart
 > Aşağıdaki örnek Flutter için bir yaml dosyasıdır.
 
 
-```
+```yaml
 name: flutterui
 description: A new Flutter project.
 
