@@ -87,6 +87,8 @@ Ardından Dart SDK Kurulumu Yapılır.
 
 ----
 # Geliştirmeye Başlangıç
+Yukarıdaki kurulum aşamalarını yaptıktan sonra, Geliştirmey başlayabilmek için ihtiyacınız olan araç bir metin editorü.
 
-
-
+[Visual Studio Code](https://code.visualstudio.com/)
+[Eclipse](https://github.com/eclipse/dartboard)
+[Atom](https://atom.io/)
