@@ -18,6 +18,6 @@ void main() {
 dart merhaba_dunya.dart
 ```
 # Online Test Et
-<iframe width="100px" height="250px" src="https://dartpad.dev/embed-inline.html?id=2fadb7133b4c3fb97e827b00741a927a&split=80"></iframe>
+<iframe  width="100%" height="350px" src="https://dartpad.dev/embed-inline.html?id=2fadb7133b4c3fb97e827b00741a927a&split=80"></iframe>
 
 
