@@ -7,7 +7,8 @@ Türkçe Dart Dili Sayfası
 > Bu sayfada Türkçe Dart Dili Dersleri planlanmaktadır.
 
 # İçerikler
-- [Başlangıç](baslangic)
+- Başlangıç
+0. Merhaba Dünya ve Kurulum
 1. Söz Dizimi (Syntax)
 2. Veri Tipleri (Data Types)
 3. Değişkenler (Variables)
